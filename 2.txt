@@ -1,1 +1,11 @@
 gitkkkkkkkkk222
+var b
+function(){
+b++
+}
+gitasdfasdf222
+var a
+function()
+{
+aaaaaaaaaaaaaaaaaa
+}
